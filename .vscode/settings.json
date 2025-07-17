@@ -1,0 +1,23 @@
+{
+    "C_Cpp.intelliSenseEngine": "disabled",
+    "C_Cpp.autocomplete": "disabled",
+    "C_Cpp.suggestSnippets": false,
+    "C_Cpp.autoAddFileAssociations": false,
+    "C_Cpp.errorSquiggles": "disabled",
+    "C_Cpp.autoCompleteAddParentheses": false,
+    "editor.suggest.insertMode": "replace",
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "editor.acceptSuggestionOnEnter": "smart",
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": false,
+        "strings": false
+    },
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.tabCompletion": "on",
+    "editor.wordBasedSuggestions": "off",
+    "clangd.arguments": [
+        "--header-insertion=never",
+        "--completion-style=detailed"
+    ]
+}
